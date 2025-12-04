@@ -1,3 +1,2 @@
-# Learn-GitHub-
-I like GitHub 
+# Learn-GitHub
 this is GitHub 
